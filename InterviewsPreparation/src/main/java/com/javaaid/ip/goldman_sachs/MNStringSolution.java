@@ -22,7 +22,7 @@
 	pattern like 3142 ,8796,6241 etc.. 2143 is the lowest numeric value for this pattern sequence.)
  */
 
-package com.javaaid.ip.hackerrank.goldman_sachs;
+package com.javaaid.ip.goldman_sachs;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

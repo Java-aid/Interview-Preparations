@@ -17,7 +17,7 @@
 	ascending order seperated by comma.
  * 
  */
-package com.javaaid.ip.hackerrank.goldman_sachs;
+package com.javaaid.ip.goldman_sachs;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
