@@ -7,7 +7,7 @@ package com.javaaid.ip.spraoi;
  * @author Kanahaiya Gupta
  *
  */
-public class IntegerToRomanNumberConverstion {
+public class IntegerToRomanNumberConversion {
 	public String convertIntToRoman(int num){   
 	     String m[] = {"", "M", "MM", "MMM"};
 	     String c[] = {"", "C", "CC", "CCC", "CD", "D",  "DC", "DCC", "DCCC", "CM"};
