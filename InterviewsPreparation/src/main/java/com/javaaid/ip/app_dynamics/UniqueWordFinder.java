@@ -1,14 +1,26 @@
 /**
- * Problem Statement-
- * ------------------------------
- * There are lot of meeting which has been schedule for today and schedule of meetings has been provide based on that you need to arrange minimum rooms so that nobody has to wait for meeting room as cost of meeting room is also high, so arrange less meeting room for all the meetings.
+ *Problem Statement-
+ *------------------------------
+ *There is a file containing plain text, you need to tell whether all the unique words in whole file is present in single line or not?
+	Ex- 
+	input->
+	a
+	a b
+	b c d
+	a b c d
 	
-	input--> (startTime,endTime)
-	(1,4),(2,8),(3,6)
-	output- 3
+	output->yes
 	
-	input--> (1,5),(2,6),(6,8),(7,9)
-	output-> 2
+	input->
+	a
+	a b
+	b c d
+	a b c d
+	e
+	
+	output->no
+	Note: treat character as words for ease
+ 
  */
 
 package com.javaaid.ip.app_dynamics;
