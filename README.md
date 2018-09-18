@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.facebook.com/groups/CodingInterviewPreparation">
+    <a href="https://www.facebook.com/groups/codingip/">
         <img height=85 src="https://github.com/Java-aid/Interview-Preparations/blob/master/InterviewsPreparation/src/main/resources/images/javaAidBanner.png">
     </a>
     <br>For more, join our facebook group "Coding Interview Preparation" by clicking on above image
